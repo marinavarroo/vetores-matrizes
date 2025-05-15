@@ -25,7 +25,7 @@ programa {
 		escreva("\n Números Pares \n")
 		para (i = 0; i < 10; i++) {
 			se (vetor[i] % 2 == 0) {
-				escreva(vetor[i], "")
+				escreva(vetor[i], " ")
 			}
 		}
 
