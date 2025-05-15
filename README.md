@@ -10,7 +10,7 @@ Os algoritmos foram escritos em **Portugol**, com foco na resolução de problem
 
 ## 📚 Conteúdos abordados
 
-- Ordenação de vetores (ordem decrescente)  
+- Ordenação de vetores (ordem decrescente) com seleção dinâmica dos números no primeiro exercício
 - Identificação de números pares e posições ímpares  
 - Cálculo de soma e média de elementos  
 
